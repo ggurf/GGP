@@ -2,10 +2,7 @@
 	box-sizing: border-box;
 }
 
-@font-face {
-  font-family: Placeholder;
-  src: url("../fonts/NEONLEDLight.otf  ")
-}
+
 
 body {
 	background: #0D1117;
