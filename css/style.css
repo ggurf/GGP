@@ -82,14 +82,14 @@ header {
   /* Change the color of links on focus using tab key */
   nav a:focus {
     background-color: #3FC3B5;
-    color: black;
+    color: white;
     outline: none;
   }
   
   /* Change the color of the active/current link */
   .active_nav {
     background-color: #2AA198 ;
-    color: black;
+    color: white;
   }
 
   
